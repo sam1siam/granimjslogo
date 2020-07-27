@@ -1,0 +1,13 @@
+div {
+  min-height: 100%;
+  min-width: 100%;
+ }
+
+#canvas-image-blending {
+  min-height: 100%;
+  min-width: 100%;
+}
+
+body {
+  margin: 0;
+}
